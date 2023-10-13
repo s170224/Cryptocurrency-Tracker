@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #000000;
+  font-family: 'Roboto';
+  text-align: center;
+  padding-top: 30px;
+}
+.criptoHeading {
+  color: #00e7ff;
+  font-family: 35px;
+  font-family: 'Roboto';
+}
+.coinContainer {
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  background-color: #092e33;
+}
+.criptoContainer {
+  border-color: #00e7ff;
+  border-style: solid;
+  margin: 30px;
+  margin-right: 200px;
+  margin-left: 70px;
+  padding-bottom: 10px;
+}
+.para1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 70px;
+}
+.usdPara {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 750px;
+}
+.euroPara {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 80px;
+}

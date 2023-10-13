@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.currencyContainer {
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logoImage {
+  height: 50px;
+  width: 35px;
+  padding-top: 10px;
+}
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  margin: 25px;
+}
+.paraCurrency {
+  padding-left: 20px;
+}
+.usdContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.para2 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  padding-right: 60px;
+  padding-top: 10px;
+}
